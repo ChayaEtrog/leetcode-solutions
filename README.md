@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0057-insert-interval](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
