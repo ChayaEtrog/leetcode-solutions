@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Tree
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
