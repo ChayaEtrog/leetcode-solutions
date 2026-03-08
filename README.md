@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ChayaEtrog/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
